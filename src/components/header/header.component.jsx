@@ -17,7 +17,7 @@ const Header = ({ hidden }) => (
       <Logo className='logo' />
     </Link>
     <div className='options'>
-      <Link className='option' to='/menu'>
+      <Link className='option' to='/'>
         CARDÁPIO
       </Link>
       <CartIcon />
