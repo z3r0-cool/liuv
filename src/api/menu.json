@@ -1,0 +1,75 @@
+{
+	"categories": [{
+		"id": 1,
+		"name": "Lanches",
+		"items": [{
+			"id": 1,
+			"name": "Hamb\u00farguer",
+			"description": "P\u00e3o, bife de hamb\u00farguer 90g, salada e batata.",
+			"unit_price": 8.5,
+			"image":"https://i.ibb.co/472jTDf/hamburger.webp" 
+		}, {
+			"id": 2,
+			"name": "X-B\u00farguer",
+			"description": "P\u00e3o, bife de hamb\u00farguer 90g, 1 fatia de queijo, salada e batata.",
+			"unit_price": 10.5,
+			"image":"https://i.imgur.com/4lkyJi5.png" 
+		}, {
+			"id": 3,
+			"name": "X-Bacon",
+			"description": "P\u00e3o, bife de hamb\u00farguer 90g, 1 fatia de queijo, 2 fatia de bacon, salada e batata.",
+			"unit_price": 12.5,
+			"image":"https://i.imgur.com/zFJYv0a.png" 
+		}, {
+			"id": 4,
+			"name": "X-Tudo",
+			"description": "P\u00e3o, 2 bifes de hamb\u00farguer 90g, 2 fatias de queijo, 4 fatias de bacon, salada e batata.",
+			"unit_price": 14.5,
+			"image":"https://i.imgur.com/ZgZ8TKe.png" 
+		}]
+	}, {
+		"id": 2,
+		"name": "Bebidas",
+		"items": [{
+			"id": 5,
+			"name": "Coca-Cola",
+			"description": "Coca-Cola lata (350ml)",
+			"unit_price": 5.5,
+			"image": "https://i.imgur.com/ubEuIpq.png"
+		}, {
+			"id": 6,
+			"name": "Fanta",
+			"description": "Fanta lata (350ml)",
+			"unit_price": 5.5,
+			"image": "https://i.imgur.com/z3eJnFj.png"
+		}, {
+			"id": 7,
+			"name": "Sprite",
+			"description": "Sprite lata (350ml)",
+			"unit_price": 5.5,
+			"image": "https://i.imgur.com/Ruj4Xjl.png"
+		}]
+	}, {
+		"id": 3,
+		"name": "Entradas",
+		"items": [{
+			"id": 8,
+			"name": "Batata Frita com Cheddar",
+			"description": "Batata Frita com Cheddar (Serve 2 pessoas)",
+			"unit_price": 15.5,
+			"image": "https://i.imgur.com/y5v96Zm.png"
+		}, {
+			"id": 9,
+			"name": "Batata Frita",
+			"description": null,
+			"unit_price": 13,
+			"image": "https://i.imgur.com/s1zttgI.png"
+		}, {
+			"id": 10,
+			"name": "Bolinho de Bacalhau",
+			"description": "Por\u00e7\u00e3o com 12",
+			"unit_price": 29,
+			"image": "https://i.imgur.com/wzFXFrW.png"
+		}]
+	}]
+}
